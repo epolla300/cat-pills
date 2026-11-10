@@ -1,0 +1,6 @@
+{
+  "name": "Cat Pills - Dietary Wellness for Cats",
+  "description": "Pre-launch demand validation landing page for Cat Pills, helping cat owners feel happy and confident about their cats' dietary health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
